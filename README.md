@@ -353,7 +353,7 @@ git push origin feature/your-feature-name
 
 **Your Name**
 
-GitHub: `@YOUR_GITHUB_USERNAME`
+GitHub: `@FusionXstore`
 
 ---
 
